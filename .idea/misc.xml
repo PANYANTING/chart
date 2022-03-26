@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/activity_chart_page.xml" value="0.25" />
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/activity_chart_page_category.xml" value="0.10643115942028986" />
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/activity_chart_page_month.xml" value="0.22" />
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/fragment_chart_page.xml" value="0.1" />
+        <entry key="..\:/CAMPUS/110-2/project_2/chart_0303/app/src/main/res/layout/fragment_chartpage.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
